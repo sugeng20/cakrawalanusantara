@@ -657,7 +657,7 @@ select.form-control.has-value {
 }
 @media (min-width: 320px) and (max-width: 992px) {
   .navbar {
-    background: #202877 !important;
+    background: #9b6e55 !important;
     padding: 0.95rem 1rem;
   }
 
